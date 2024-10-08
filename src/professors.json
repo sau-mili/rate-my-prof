@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Smith",
+      "department": "Computer Science",
+      "ratings": []
+    },
+    {
+      "id": 2,
+      "name": "Prof. Johnson",
+      "department": "Computer Science",
+      "ratings": []
+    },
+    {
+      "id": 3,
+      "name": "Dr. Brown",
+      "department": "Physics",
+      "ratings": []
+    }
+  ]
